@@ -3,7 +3,7 @@
 Official description:
 "_In this project, you will learn the basics of threading a process. You will learn how to make threads. You will discover the mutex._"
 
-<br>The task is to solve problem of dinning philosophers via threads. 
+###The task is to solve problem of dinning philosophers via threads. 
 <br>
 <br>  .Philosophers are sitting at a round table with bowls of spaghetti. 
 <br>  .Forks are placed between them. To eat spaghetti each needs to use 2 forks at the same time. Fork is a shared resource so we use mutex to make sure it will not be accessed by more than thread at the same time.
